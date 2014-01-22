@@ -1,4 +1,5 @@
-dircolors-testdir
-=================
+test-directory
+--------------
 
-Test directory for dircolor schemes
+A selection of files and directories for testing color schemes.
+
