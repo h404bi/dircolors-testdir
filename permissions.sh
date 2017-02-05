@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 chmod +o+w directory+o+w
 chmod +t directory+t
 chmod 777 directory777
